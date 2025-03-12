@@ -1,1 +1,3 @@
 snakeai_env/
+model/
+__pycache__/
