@@ -14,8 +14,8 @@ def plot(scores, mean_scores):
     plt.xlabel('Number of Games', fontsize=12)
     plt.ylabel('Score', fontsize=12)
     
-    plt.plot(scores, label='Score', color='#3498db', linewidth=2, alpha=0.8)
-    plt.plot(mean_scores, label='Mean Score', color='#e74c3c', linestyle='dashdot', linewidth=3)
+    plt.plot(scores, label='Score', color='royalblue', linewidth=2, alpha=0.8)
+    plt.plot(mean_scores, label='Mean Score', color='red', linestyle='dashdot', linewidth=3)
     
     plt.ylim(ymin=0)
     
