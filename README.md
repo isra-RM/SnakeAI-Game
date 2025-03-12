@@ -1,5 +1,5 @@
 # Introduction
-This project demonstrates the use of **Reinforcement Learning** to train an AI agent to play the classic Snake game. The implementation is inspired by Patrick Loeber's freeCodeCamp tutorial, [Python + PyTorch + Pygame Reinforcement Learning – Train an AI to Play Snake](https://www.youtube.com/watch?v=L8ypSXwyBds&t=231s). 
+This project demonstrates the use of **Reinforcement Learning** to train an AI agent to play the classic Snake game 🐍. The implementation is inspired by Patrick Loeber's freeCodeCamp tutorial, [Python + PyTorch + Pygame Reinforcement Learning – Train an AI to Play Snake](https://www.youtube.com/watch?v=L8ypSXwyBds&t=231s). 
 
 # Installation
 To set up the project, it is strongly recommended to create a virtual environment:
